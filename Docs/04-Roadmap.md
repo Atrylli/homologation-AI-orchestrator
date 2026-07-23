@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-Este documento apresenta possíveis evoluções para a arquitetura do **QA AI Orchestrator**.
+Este documento apresenta possíveis evoluções para a arquitetura do **Homologation AI Orchestrator**.
 
 As melhorias descritas não alteram o propósito original da solução, mas representam oportunidades para ampliar sua capacidade de automação, análise e integração conforme novas necessidades surgirem.
 
@@ -127,7 +127,7 @@ Independentemente das futuras implementações, alguns princípios devem ser pre
 
 # Considerações Finais
 
-O QA AI Orchestrator foi concebido como uma arquitetura modular e evolutiva.
+O Homologation AI Orchestrator foi concebido como uma arquitetura modular e evolutiva.
 
 Sua estrutura permite incorporar novas funcionalidades de forma incremental, preservando os princípios arquiteturais definidos desde sua concepção.
 
