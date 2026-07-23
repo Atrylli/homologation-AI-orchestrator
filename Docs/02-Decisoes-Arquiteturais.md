@@ -13,7 +13,7 @@ Toda arquitetura é resultado de decisões tomadas durante o desenvolvimento da 
 
 Mais importante do que as tecnologias utilizadas é compreender os motivos que justificaram cada escolha.
 
-Este documento apresenta os principais trade-offs considerados durante a definição da arquitetura do QA AI Orchestrator.
+Este documento apresenta os principais trade-offs considerados durante a definição da arquitetura do Homologation AI Orchestrator.
 
 ---
 
