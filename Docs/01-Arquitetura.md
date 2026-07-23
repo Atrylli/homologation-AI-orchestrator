@@ -207,7 +207,7 @@ Novos fluxos automatizados podem ser adicionados futuramente sem necessidade de 
 
 # Considerações Finais
 
-A arquitetura do QA AI Orchestrator foi projetada para organizar o processo de homologação através da integração entre Inteligência Artificial Conversacional, automação e ferramentas colaborativas.
+A arquitetura do Homologation AI Orchestrator foi projetada para organizar o processo de homologação através da integração entre Inteligência Artificial Conversacional, automação e ferramentas colaborativas.
 
 Ao distribuir responsabilidades entre componentes especializados, a solução reduz atividades repetitivas, aumenta a padronização das informações e fortalece a rastreabilidade dos processos, preservando o papel dos especialistas de negócio na tomada de decisão.
 
