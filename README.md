@@ -1,6 +1,6 @@
 <p align="center">
 
-# QA Orchestrator AI
+# Homologation Orchestrator AI
 
 ### Arquitetura de IA para Padronização de Homologações Funcionais e Automação de Processos
 
