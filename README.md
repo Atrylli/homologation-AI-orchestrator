@@ -18,7 +18,7 @@ Uma solução construída com Microsoft Copilot Studio e Power Platform para est
 
 # 📖 Sobre o Projeto
 
-O **QA AI Orchestrator** é uma arquitetura de IA desenvolvida para apoiar processos de homologação funcional.
+O **Homologation Orchestrator AI** é uma arquitetura de IA desenvolvida para apoiar processos de homologação funcional.
 
 Ao invés de substituir o conhecimento dos especialistas de negócio, a solução utiliza Inteligência Artificial Conversacional para transformar descrições em linguagem natural em registros estruturados, padronizados e prontos para integração com o restante do fluxo operacional.
 
