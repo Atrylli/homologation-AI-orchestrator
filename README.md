@@ -156,6 +156,12 @@ A IA atua como uma camada de apoio operacional, auxiliando na organização das 
 
 ---
 
-## 📄 Licença
+## 📄 Licença e Uso
 
 Este projeto possui finalidade exclusivamente educacional e de demonstração técnica.
+
+Este repositório é disponibilizado exclusivamente como portfólio técnico.
+
+Seu objetivo é apresentar a arquitetura, as decisões de projeto e a abordagem utilizada para resolver um problema de automação de processos utilizando Microsoft Power Platform.
+
+Não é um projeto open source.
