@@ -25,6 +25,25 @@ Ao invés de substituir o conhecimento dos especialistas de negócio, a soluçã
 A arquitetura combina Microsoft Copilot Studio, Power Automate e Microsoft 365 para reduzir atividades repetitivas, aumentar a qualidade da documentação e fortalecer a rastreabilidade entre testes, evidências e incidentes.
 
 ---
+# 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Copilot_Studio-6264A7?style=for-the-badge&logo=microsoftcopilot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</p>
+
+---
 
 # 🚀 Principais Funcionalidades
 
