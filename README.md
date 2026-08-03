@@ -100,7 +100,7 @@ F --> H[SharePoint]
 # 📂 Estrutura do Projeto
 
 ```text
-QA-AI-Orchestrator
+Homologation-Orchestrator-AI
 │
 ├── README.md
 │
