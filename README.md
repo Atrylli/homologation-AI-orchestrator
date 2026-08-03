@@ -77,9 +77,21 @@ A[Usuário]
 
 E --> F[Word]
 
-E --> G[Jira]
+E --> G[Evidência Preenchida + Status = Falhou]
 
-F --> H[SharePoint]
+G --> H[Jira]
+
+F --> I[Usuário]
+
+I --> J[Microsoft Copilot Studio]
+
+J --> K[Estrutura Cenário]
+
+--> L[Sharepoint]
+
+D --> L[Sharepoint]
+
+L --> M[Consultas e Indicadores Copilot]
 ```
 
 ---
