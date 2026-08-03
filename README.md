@@ -8,14 +8,6 @@ Uma solução construída com Microsoft Copilot Studio e Power Platform para est
 
 ---
 
-> ⚠️ **Importante**
->
-> Este repositório representa uma versão pública do projeto, desenvolvida exclusivamente para fins de demonstração técnica. Todas as informações, exemplos e arquivos foram adaptados para remover qualquer referência a ambientes corporativos.
-
-</p>
-
----
-
 # 📖 Sobre o Projeto
 
 O **Homologation Orchestrator AI** é uma arquitetura de IA desenvolvida para apoiar processos de homologação funcional.
