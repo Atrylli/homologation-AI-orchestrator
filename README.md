@@ -85,6 +85,11 @@ D --> L[Sharepoint]
 
 L --> M[Consultas e Indicadores Copilot]
 ```
+## 💡 Esboço do Fluxo
+
+<p align="center">
+  <img src="Images/Workflow-AI.png" width="100%">
+</p>
 
 ---
 
